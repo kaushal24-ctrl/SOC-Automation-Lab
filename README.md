@@ -396,9 +396,10 @@ After configuring and restarting the Wazuh Manager, you should now receive email
 
 <div align="center">
 <!--   <h1>My Project</h1> -->
-    <img src="https://github.com/user-attachments/assets/811be197-beeb-4a33-91e3-92d61a9d219d">
+    <img width="1388" height="312" alt="455161494-811be197-beeb-4a33-91e3-92d61a9d219d" src="https://github.com/user-attachments/assets/549cc5b7-1c60-48e3-a21a-38490f508f33" />
     <p><em>Figure.15: Email Alert for Attack </em></p>
 </div>
+
 
 ### Summary 
 Summary of What Achieved
